@@ -1,4 +1,4 @@
-#Report
+# Report
 Initial prompt: please explain DDD to me. I need a theoretical and practical explaination, with examples in TypeScript.
 
 ## Introduction
